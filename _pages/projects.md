@@ -3,7 +3,7 @@ layout: page
 title: portfolio
 permalink: /projects/
 description: A growing collection of your cool projects. NB - add teaching statement here.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false

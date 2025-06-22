@@ -1,8 +1,11 @@
 github_users:
-  - awwerbro
+  # - awwerbro
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - awwerbro/outreach
   - DavidVdH/ThreeBodyProblem
+  - awwerbro/ALD_QMS
+  # - awwerbro/impedance
+  # - awwerbro/surface_KMC
