@@ -27,6 +27,7 @@ end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
 group :other_plugins do
+    gem 'nokogiri', '>= 1.18.9'
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
