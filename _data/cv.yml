@@ -28,9 +28,8 @@
     - title: Bachelor in Physics and Astronomy
       institution: Ghent University, Ghent, Belgium
       year: 2014
-      description:
-        "Bachelorproject: 
-        (nl) Nieuwe materialen voor stralingsdosimetrie met behulp van elektron paramagnetische resonantie 
+      description: "Bachelorproject:
+        (nl) Nieuwe materialen voor stralingsdosimetrie met behulp van elektron paramagnetische resonantie
         (en) New materials for radiation dosimetry using EPR
         Mentor: Jevgenij Kusakovskij"
 
@@ -75,7 +74,7 @@
       description: I helped organize the physics practical sessions for trade engineers.
     - title: At-home practicum
       year: 2020
-      description: 
+      description:
 
 - title: Programming
   type: nested_list
@@ -89,8 +88,6 @@
         - Description 1.
         - Description 2.
 
-
-
 - title: Teaching and Mentoring
   type: time_table
   contents:
@@ -99,10 +96,10 @@
       description: I helped organize the physics practical sessions for trade engineers.
     - title: At-home practicum
       year: 2020
-      description: 
+      description:
     - title: NRT mentorship
       year: 2023-2024
-      description: 
+      description:
 
 - title: Honors and Awards
   type: time_table
@@ -127,7 +124,7 @@
         - Description 1.
         - Description 2.
 
-- title: Grant writing 
+- title: Grant writing
   name: granted proposals
   type: time_table
   contents:
@@ -143,9 +140,9 @@
     - year: 2024
       title: TEM user proposals
       description: bla
-    - year: 
+    - year:
       title: Various
-      description:  
+      description:
 
 - title: Volunteering
   type: list
