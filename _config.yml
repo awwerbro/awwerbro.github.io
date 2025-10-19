@@ -5,14 +5,14 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Andreas
 last_name: Werbrouck
-email: awfk9[at]missouri.edu, andreas.werbrouck[at]ugent.be
+email: andreas.werbrouck[at]ugent.be
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoc at the University of Missouri - Columbia
+  Postdoc at Ghent University
 footer_text: #>
   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Thin Films, Materials Science, Data Science # add your own keywords or leave empty
+keywords: Thin Films, Materials Science, Data Science, Artificial Intelligence, Machine Learning, Atomic Layer Deposition # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: fav2.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Andreas Werbrouck # blog_name will be displayed in your blog page
-blog_description: Using data science to study and design materials
+blog_description: Using data science/AI/ML to study materials and thin films
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -167,13 +167,13 @@ giscus:
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
+#   - name: Google Blog
+#     posts:
+#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
