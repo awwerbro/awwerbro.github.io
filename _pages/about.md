@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Materials scientist — atomic layer deposition, thin films, in situ/operando platforms, and AI/ML-driven analysis
+# subtitle: Materials scientist — atomic layer deposition, thin films, in situ/operando platforms, and AI/ML-driven analysis
 description: Postdoctoral materials scientist building in situ/operando platforms and AI/ML workflows for thin film growth, material, surface and interface characterization. 
 
 profile:
