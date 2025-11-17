@@ -27,4 +27,4 @@ After finishing my PhD in the [Cocoon research group](https://www.ugent.be/we/so
 
 And yep, I'm a white guy and I confirm all prevailing stereotypes about academics. However, I think that we ('the world') miss out on talent and perspective if only people who look like me are seen in science. Ideas get stronger when they get challenged, and we'll need everyone on board if we are to face the future confidently.
 
-Contact me via the links below if you are interested in collaborating!
+Contact me via the links below if you are interested in collaborating, I'm open to work with academia or industry!
